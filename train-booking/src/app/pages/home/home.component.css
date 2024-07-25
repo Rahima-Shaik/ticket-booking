@@ -1,0 +1,75 @@
+.img-fluid
+{
+    max-width: 100%;
+    height: auto;
+}
+.form-label
+{
+    margin-bottom: .5rem;
+}
+.col-6{
+    width: 50%;
+}
+.pt-5 {
+    padding-top: 3rem !important;
+    padding-left: 37px;
+}
+ .row-container{
+        display: flex;
+        flex-direction: row;
+        max-width: 300px;
+        margin: auto;
+        gap: 15px;
+ }
+ /* .row, .pt-3{
+        display: flex;
+        flex-direction: column;
+        max-width: 300px;
+        margin: auto;
+        gap: 15px;
+ } */
+ .form-select{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+ }
+ .btn {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .date-of-travel
+  {
+  margin-top: 17px;
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+  padding-right: 56px;
+  }
+  .date-picker
+  {
+    width: 51%;
+    padding: 8px;
+    margin-left:122px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+  .d-flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .btn-primary{
+    margin-top: 21px;
+    width: 84px;
+    margin-left: 26px;
+  }
